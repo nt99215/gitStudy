@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ko">
+
+<!doctype html>
+<html lang="ko">
+<head>
+	<meta charset="utf-8">¿
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no,target-densitydpi=medium-dpi">
+	<title>쥬니버게임</title>
+	<style>
+		html, body{
+			width:100%;
+			height: 100%;
+		}
+
+		body, div, canvas{
+			margin:0;
+			padding:0;
+		}
+
+		body {
+			overflow: hidden;
+			font-family: Helvetica Neue, Apple SD Gothic Neo, sans-serif;
+			font-size: 14px;
+			line-height: 1.25em;
+			-webkit-text-size-adjust: none;
+			background-color: #1a1a1a
+		}
+
+		canvas {
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			margin: auto;
+			touch-action: none;
+			user-select: none;
+			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+
+			display: block;
+		}
+
+		.game_view {
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+
+		}
+
+	</style>
+	<script language="javascript">
+        //  window.renderCanvas = true;
+        //		window.onDebug=true;
+        window.jru = {
+            unsk:true,
+            ge:['./vendor/phaser.min.js', './vendor/phaser-spine.min.js'],
+           // gm:'https://pages.oss.navercorp.com/ria-game/9999_game_main/dist/js/ng.cover-main.min.js',
+			gm: './js/ng.cover-main.min.js',
+            g:'./index.bundle.js'
+        };
+	</script>
+
+</head>
+<body>
+<div class="game_view" id="stage" ></div>
+<script src="./vendor/jquery.min.js"></script>
+<!--<script src="https://pages.oss.navercorp.com/ria-game/9999_game_main/dist/js/ng.cover.min.js"></script>-->
+<script src="./js/ng.cover.min.js"></script>
+</body>
+</html>

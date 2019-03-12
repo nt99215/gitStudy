@@ -1,0 +1,188 @@
+{"frames": [
+
+{
+	"filename": "game-over-now-score/44",
+	"frame": {"x":1,"y":395,"w":29,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":47,"w":29,"h":33},
+	"sourceSize": {"w":29,"h":80}
+},
+{
+	"filename": "game-over-now-score/48",
+	"frame": {"x":1,"y":80,"w":59,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":77},
+	"sourceSize": {"w":59,"h":80}
+},
+{
+	"filename": "game-over-now-score/49",
+	"frame": {"x":59,"y":238,"w":38,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":77},
+	"sourceSize": {"w":38,"h":80}
+},
+{
+	"filename": "game-over-now-score/50",
+	"frame": {"x":1,"y":317,"w":56,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":76},
+	"sourceSize": {"w":56,"h":80}
+},
+{
+	"filename": "game-over-now-score/51",
+	"frame": {"x":59,"y":317,"w":53,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":77},
+	"sourceSize": {"w":53,"h":80}
+},
+{
+	"filename": "game-over-now-score/52",
+	"frame": {"x":1,"y":1,"w":60,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":77},
+	"sourceSize": {"w":60,"h":80}
+},
+{
+	"filename": "game-over-now-score/53",
+	"frame": {"x":62,"y":158,"w":56,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":77},
+	"sourceSize": {"w":56,"h":80}
+},
+{
+	"filename": "game-over-now-score/54",
+	"frame": {"x":1,"y":159,"w":59,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":77},
+	"sourceSize": {"w":59,"h":80}
+},
+{
+	"filename": "game-over-now-score/55",
+	"frame": {"x":62,"y":80,"w":58,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":58,"h":76},
+	"sourceSize": {"w":58,"h":80}
+},
+{
+	"filename": "game-over-now-score/56",
+	"frame": {"x":1,"y":238,"w":56,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":77},
+	"sourceSize": {"w":56,"h":80}
+},
+{
+	"filename": "game-over-now-score/57",
+	"frame": {"x":63,"y":1,"w":57,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":77},
+	"sourceSize": {"w":57,"h":80}
+},
+{
+	"filename": "game-over-top-score/44",
+	"frame": {"x":99,"y":301,"w":8,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":8,"h":10},
+	"sourceSize": {"w":8,"h":30}
+},
+{
+	"filename": "game-over-top-score/48",
+	"frame": {"x":55,"y":396,"w":21,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":29},
+	"sourceSize": {"w":21,"h":30}
+},
+{
+	"filename": "game-over-top-score/49",
+	"frame": {"x":53,"y":427,"w":12,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":30},
+	"sourceSize": {"w":12,"h":30}
+},
+{
+	"filename": "game-over-top-score/50",
+	"frame": {"x":78,"y":396,"w":21,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":29},
+	"sourceSize": {"w":21,"h":30}
+},
+{
+	"filename": "game-over-top-score/51",
+	"frame": {"x":90,"y":428,"w":19,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":29},
+	"sourceSize": {"w":19,"h":30}
+},
+{
+	"filename": "game-over-top-score/52",
+	"frame": {"x":67,"y":428,"w":21,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":29},
+	"sourceSize": {"w":21,"h":30}
+},
+{
+	"filename": "game-over-top-score/53",
+	"frame": {"x":101,"y":396,"w":19,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":30},
+	"sourceSize": {"w":19,"h":30}
+},
+{
+	"filename": "game-over-top-score/54",
+	"frame": {"x":99,"y":237,"w":21,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":30},
+	"sourceSize": {"w":21,"h":30}
+},
+{
+	"filename": "game-over-top-score/55",
+	"frame": {"x":99,"y":269,"w":21,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":30},
+	"sourceSize": {"w":21,"h":30}
+},
+{
+	"filename": "game-over-top-score/56",
+	"frame": {"x":32,"y":427,"w":19,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":30},
+	"sourceSize": {"w":19,"h":30}
+},
+{
+	"filename": "game-over-top-score/57",
+	"frame": {"x":32,"y":395,"w":21,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":30},
+	"sourceSize": {"w":21,"h":30}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-main-font.png",
+	"format": "RGBA8888",
+	"size": {"w":121,"h":458},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:43038eeb4931cd94fb3bd12836d7267c:9bb502ed20f662aaaf2cdaf048cf87fd:2818d1393aace42fc2d23925230ae01f$"
+}
+}

@@ -1,0 +1,164 @@
+{"frames": [
+
+{
+	"filename": "black-bg.png",
+	"frame": {"x":867,"y":470,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":2},
+	"sourceSize": {"w":2,"h":2}
+},
+{
+	"filename": "black-cover-bg.png",
+	"frame": {"x":871,"y":470,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":2},
+	"sourceSize": {"w":2,"h":2}
+},
+{
+	"filename": "game-main-close-button.png",
+	"frame": {"x":655,"y":518,"w":94,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":98},
+	"sourceSize": {"w":94,"h":98}
+},
+{
+	"filename": "game-main-help-button.png",
+	"frame": {"x":751,"y":518,"w":94,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":98},
+	"sourceSize": {"w":94,"h":98}
+},
+{
+	"filename": "game-main-ranking-bronze.png",
+	"frame": {"x":315,"y":586,"w":54,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":63},
+	"sourceSize": {"w":54,"h":63}
+},
+{
+	"filename": "game-main-ranking-diamond.png",
+	"frame": {"x":371,"y":586,"w":54,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":63},
+	"sourceSize": {"w":54,"h":63}
+},
+{
+	"filename": "game-main-ranking-gold.png",
+	"frame": {"x":427,"y":601,"w":54,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":63},
+	"sourceSize": {"w":54,"h":63}
+},
+{
+	"filename": "game-main-ranking-silver.png",
+	"frame": {"x":483,"y":601,"w":54,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":63},
+	"sourceSize": {"w":54,"h":63}
+},
+{
+	"filename": "game-over-badge.png",
+	"frame": {"x":1,"y":586,"w":312,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":66},
+	"sourceSize": {"w":312,"h":66}
+},
+{
+	"filename": "game-over-effect-cut.png",
+	"frame": {"x":562,"y":157,"w":311,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":311},
+	"sourceSize": {"w":311,"h":311}
+},
+{
+	"filename": "game-over-title.png",
+	"frame": {"x":551,"y":470,"w":314,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":314,"h":46},
+	"sourceSize": {"w":314,"h":46}
+},
+{
+	"filename": "game-over-top-score-bg.png",
+	"frame": {"x":1,"y":293,"w":548,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":548,"h":124},
+	"sourceSize": {"w":548,"h":124}
+},
+{
+	"filename": "game-over-top-score.png",
+	"frame": {"x":1,"y":419,"w":548,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":548,"h":80},
+	"sourceSize": {"w":548,"h":80}
+},
+{
+	"filename": "game-popup-bg.png",
+	"frame": {"x":723,"y":1,"w":121,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":121},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "game-rating-mark.png",
+	"frame": {"x":549,"y":518,"w":104,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":124},
+	"sourceSize": {"w":104,"h":124}
+},
+{
+	"filename": "loading.png",
+	"frame": {"x":449,"y":501,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+{
+	"filename": "paused.png",
+	"frame": {"x":1,"y":1,"w":720,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":154},
+	"sourceSize": {"w":720,"h":154}
+},
+{
+	"filename": "system-popup-button.png",
+	"frame": {"x":1,"y":157,"w":559,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":559,"h":134},
+	"sourceSize": {"w":559,"h":134}
+},
+{
+	"filename": "system-popup-title.png",
+	"frame": {"x":1,"y":501,"w":446,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":446,"h":83},
+	"sourceSize": {"w":446,"h":83}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-main-ui.png",
+	"format": "RGBA8888",
+	"size": {"w":874,"h":665},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6bec2dbb0afa94ab806fee4b6d9005a0:86c20db285d19072e3dcf290629a32d2:f5015327a0742dc393f90c99fedf906a$"
+}
+}

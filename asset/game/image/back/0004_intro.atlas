@@ -1,0 +1,153 @@
+
+0004_intro.png
+size: 871,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+astronaut
+  rotate: false
+  xy: 2, 542
+  size: 561, 488
+  orig: 561, 488
+  offset: 0, 0
+  index: -1
+earth
+  rotate: true
+  xy: 565, 392
+  size: 638, 290
+  orig: 638, 290
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 842, 356
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+frag_1
+  rotate: true
+  xy: 509, 448
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+frag_3
+  rotate: true
+  xy: 857, 983
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+frag_4
+  rotate: true
+  xy: 857, 1020
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+frag_5
+  rotate: true
+  xy: 509, 343
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+frag_6
+  rotate: false
+  xy: 509, 417
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+frag_7
+  rotate: false
+  xy: 857, 990
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+frag_8
+  rotate: true
+  xy: 857, 998
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+frag_9
+  rotate: false
+  xy: 2, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 275, 348
+  size: 232, 192
+  orig: 232, 192
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 842, 320
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+planet
+  rotate: false
+  xy: 275, 226
+  size: 142, 120
+  orig: 142, 120
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 509, 381
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 538, 520
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+star_3
+  rotate: false
+  xy: 857, 1008
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+station
+  rotate: true
+  xy: 545, 23
+  size: 367, 295
+  orig: 367, 295
+  offset: 0, 0
+  index: -1
+station_light
+  rotate: false
+  xy: 30, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tear
+  rotate: false
+  xy: 509, 484
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 2, 23
+  size: 517, 271
+  orig: 517, 271
+  offset: 0, 0
+  index: -1
